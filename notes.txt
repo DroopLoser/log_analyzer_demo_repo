@@ -1,0 +1,5 @@
+      POSTGRES_DB: logs_db
+      POSTGRES_USER: logs_user
+      POSTGRES_PASSWORD: logs_pass
+
+         
